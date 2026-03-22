@@ -1,5 +1,5 @@
 # 👋 Hi, I'm JMM
-### 🚀 AI + Materials Science | PhD Candidate
+### 🚀 AI + Materials Science | PhD
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&background=000000&center=true&vCenter=true&width=600&height=40&lines=AI+for+Materials+Science;Materials+Informatics+%7C+Machine+Learning;Full-Stack+Developer+%7C+Open-Source;Building+the+future+with+code+and+science" alt="Typing SVG" />
 </p>
